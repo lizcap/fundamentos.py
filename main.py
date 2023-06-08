@@ -1,0 +1,10 @@
+print("este es un string","hola mundo!")
+print("este es un entero",35)
+print ("este es un float",3.14)
+print ("este es un booleano",True)
+
+print (type(True))
+print (type(3.14))
+print (type(35))
+print (type(35))
+print (type(hola...))
