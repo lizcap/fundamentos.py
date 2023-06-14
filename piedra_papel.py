@@ -34,7 +34,9 @@ else:
         print("gana usuario!")
     elif choice_user =='papel' and choice_maq == 'tijeras':
         print("gana maquina!")
-    elif choice_user =='tijeras' and choice_maq == 'tijeras':
+    elif choice_user =='tijeras' and choice_maq == 'piedra':
         print("gana maquina!")
+    elif choice_user =='tijeras' and choice_maq == 'papel':
+        print("gana usuario!")
     else:
-         print("gana usuario!")
+         print("escribe bien usuario!")
