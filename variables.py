@@ -1,3 +1,4 @@
+
 name="liz"
 age=19
 is_single= True
@@ -11,5 +12,5 @@ hola,soy liz,tengo 19 y soltera=True
 """
 
 print("hola soy {}tengo {}años y soltero={}".format(name,age,is_single))
-format(name,age-is_single)
+format(name,age_is_single)
 print("hola soy {}tengo {}años y soltero={}".format(name,age,is_single))

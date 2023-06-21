@@ -1,5 +1,5 @@
 #diccionarios
-#{}
+#{"key":,"value","key":,value}
 
 
 team ={

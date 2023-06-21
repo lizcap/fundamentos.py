@@ -9,7 +9,7 @@
 my_typle =(1,"dos",3.1,True)  
 print(type(my_tuple))
 print(my_tuple)
-print(typemy_tuple[0])
+print(type my_tuple[0])
 print(my_tuple[-1])
 #error
 # my_tuple [0] ="algo mas"
